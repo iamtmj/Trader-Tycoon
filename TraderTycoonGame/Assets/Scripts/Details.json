@@ -1,0 +1,21 @@
+{
+  "Data": [
+    {
+      "Day": 1,
+      "Month": 1,
+      "Year": 2023,
+      "Money": 0,
+      "Loan": 0,
+      "Emi": 0,
+      "CutDay": 0,
+      "RawMaterial": 0,
+      "NumberE": 0,
+      "MacLock": [false,true,true],
+      "MacP": [ false, false, false ],
+      "Produce": 0,
+      "Product": 0,
+      "SellingPrice": 0,
+      "MarketPrice": 0
+    }
+  ]
+}
